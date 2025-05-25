@@ -366,23 +366,16 @@ pass a list/tuple of legend texts
 ### The colour names and colour abbreviations are given in the following table:-
 
 
-**Colour abbreviation**      **Colour name**
-
-b                               blue
-
-c                               cyan
-
-g                               green
-
-k                               black
-
-m                               magenta
-
-r                               red
-
-w                               white
-
-y                               yellow
+**Colour Abbreviation** | **Colour Name**
+:----------------------:|:----------------:
+b                      | blue  
+c                      | cyan  
+g                      | green  
+k                      | black  
+m                      | magenta  
+r                      | red  
+w                      | white  
+y                      | yellow  
 
 
 ###There are several ways to specify colours, other than by colour abbreviations:
@@ -401,17 +394,12 @@ to draw different plots.
 
 - All the available line styles are available in the following table:
 
-
-**Style abbreviation**  **Style**
-
--                    solid line
-   
---                   dashed line
-   
--.                   dash-dot line
-   
-:                    dotted line
-   
+**Style Abbreviation** | **Style**
+:---------------------:|:----------------:
+-                     | solid line  
+--                    | dashed line  
+-.                    | dash-dot line  
+:                     | dotted line  
 
 - Now, we can see the default format string for a single line plot is 'b-'.
 
