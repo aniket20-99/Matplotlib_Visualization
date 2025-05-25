@@ -395,11 +395,13 @@ to draw different plots.
 - All the available line styles are available in the following table:
 
 **Style Abbreviation** | **Style**
-:---------------------:|:----------------:
--                     | solid line  
---                    | dashed line  
--.                    | dash-dot line  
-:                     | dotted line  
+:---------------------:|:------------------:
+`-`:------------------:| solid line  
+`--`:-----------------:| dashed line  
+`--`:-----------------:| dashed line  
+`-.`:-----------------:| dash-dot line  
+`:`:------------------:| dotted line  
+
 
 - Now, we can see the default format string for a single line plot is 'b-'.
 
